@@ -27,7 +27,7 @@ def romano_valido (rom:str)-> bool:
         else:
             cont = 1
 
-    # 3. reglas de resta
+
     for i in range(len(rom)-1):
         actual = valores[rom[i]]
         siguiente = valores[rom[i+1]]
