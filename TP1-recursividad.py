@@ -87,7 +87,7 @@ def usar_la_fuerza(mochila, indice=0):   #para saber si no esta vacia
 
 
 # Programa principal
-mochila = ['comida', 'capa', 'mapa', 'sable de luz','botiquín']
+mochila = ['comida', 'capa', 'mapa', 'sable de luz','botiquin']
 
 encontrado, cantidad = usar_la_fuerza(mochila)
 
